@@ -5,7 +5,7 @@
 - 🎮 Gaming is my therapy
 - 👀 I’m interested in Ethical Hacking
 - 💻 I’m currently learning Linux, Python, SQLi
-- 🎯 Goal: Earn OSCP, Become a Certified Ethical Hacker
+- 🎯 Goal: Earn OSCP/CEH, Become a Certified Ethical Hacker
 
 
 <!---
