@@ -4,7 +4,7 @@
 - 🎵 Music is my passion
 - 🎮 Gaming is my therapy
 - 👀 I’m interested in Ethical Hacking
-- 💻 I’m currently learning Linux, Python, SQLi
+- 💻 I’m currently learning Linux, Python, PHP, Javascript, SQLi
 - 🎯 Goal: Earn OSCP/CEH, Become a Certified Ethical Hacker
 
 
