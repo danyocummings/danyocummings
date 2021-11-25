@@ -3,8 +3,8 @@
 - 📚 InfoSec Student
 - 🎵 Music is my passion
 - 🎮 Gaming is my therapy
-- 👀 I’m interested in Ethical Hacking
-- 💻 I’m currently learning Linux, Python, PHP, Javascript, SQLi
+- 👀 I’m interested in PenTesting & Digital Forensics
+- 💻 I’m currently learning Linux, Python, PHP, Javascript, SQLi, and more
 - 🎯 Goal: Earn OSCP/CEH, Become a Certified Ethical Hacker
 
 
