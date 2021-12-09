@@ -7,8 +7,7 @@
 - 💻 I’m currently learning Linux, Python, PHP, Javascript, SQLi, and more
 - 🎯 Goal: Earn OSCP/CEH, Become a Certified Ethical Hacker
 
-<script src="https://tryhackme.com/badge/513274"></script>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/danyocummings.png" alt="TryHackMe">
 
 <!---
 danyocummings/danyocummings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
