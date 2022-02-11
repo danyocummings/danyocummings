@@ -5,7 +5,7 @@
 - 🎮 Gaming is my therapy
 - 👀 I’m interested in PenTesting & Digital Forensics
 - 💻 I’m currently learning Linux, Python, PHP, Javascript, SQLi, and more
-- 🎯 Current Goal: Earn OSCP/CEH/CISSP
+- 🎯 Currently studying for OSCP, CEH, CISSP
 
 <!---
 danyocummings/danyocummings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
