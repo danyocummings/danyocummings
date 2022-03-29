@@ -3,7 +3,7 @@
 - 📚 InfoSec Student
 - 🎵 Music is my passion
 - 🎮 Gaming is my therapy
-- 👀 I’m interested in PenTesting & Digital Forensics
+- 👀 Interested in PenTesting & Digital Forensics
 - 💻 I’m currently learning Linux, Python, PHP, Javascript, SQLi, and more
 - 🎯 Currently studying for OSCP, CEH, CISSP
 
