@@ -1,6 +1,6 @@
 - 🤙🏾 Aloha, I’m @danyocummings
 - 📍 Honolulu, HI
-- 📚 InfoSec Student
+- 📚 InfoSec
 - 🎵 Music is my passion
 - 🎮 Gaming is my therapy
 - 👀 Interested in Digital Forensics and Penetration Testing
