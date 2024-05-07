@@ -1,11 +1,10 @@
 - 🤙🏾 Aloha, I’m @danyocummings
 - 📍 Honolulu, HI
-- 📚 InfoSec
+- 📚 Information Security
 - 🎵 Music is my passion
 - 🎮 Gaming is my therapy
+- 💻 Learning is my obsession
 - 👀 Interested in Digital Forensics and Penetration Testing
-- 💻 I’m currently learning Linux, Python, PHP, Javascript, SQLi, and more
-- 🎯 Lifelong student
 
 <!---
 danyocummings/danyocummings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
