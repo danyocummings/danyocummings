@@ -5,7 +5,7 @@
 - 🎮 Gaming is my therapy
 - 👀 Interested in Digital Forensics and Penetration Testing
 - 💻 I’m currently learning Linux, Python, PHP, Javascript, SQLi, and more
-- 🎯 Currently studying for OSCP, CEH, CISSP
+- 🎯 Lifelong student
 
 <!---
 danyocummings/danyocummings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
